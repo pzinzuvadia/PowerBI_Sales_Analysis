@@ -12,7 +12,6 @@ To analyze sales data for effective decision-making and to provide insights into
   - `Sales Amount`: Total sales revenue
   - `Product Category`: Category of the product sold
   - `Region`: Geographical region of sales
-  - `Customer Segment`: Type of customer segment (e.g., Individual, Corporate)
   - `Date`: Date of the transaction
 
 ## Key Insights
