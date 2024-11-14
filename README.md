@@ -8,7 +8,6 @@ This Power BI report provides a comprehensive analysis of sales data, aimed at i
 To analyze sales data for effective decision-making and to provide insights into sales performance, regional trends, product categories, and customer behavior.
 
 ## Dataset Summary
-- **Source**: [Specify the dataset source, e.g., internal database or public dataset]
 - **Key Columns**:
   - `Sales Amount`: Total sales revenue
   - `Product Category`: Category of the product sold
