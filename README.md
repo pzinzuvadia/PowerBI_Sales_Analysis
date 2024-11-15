@@ -34,10 +34,11 @@ To analyze sales data for effective decision-making and to provide insights into
 Below are snapshots of key visuals from the report:
 
 1. **Sales by Region**
+   
    ![Sales by Region](Images/Sales_by_Region.png)  
 
-2. **Sales by Time**
+3. **Sales by Time**
    ![Sales by Time](Images/Sales_by_Time.png)  
 
-3. **Top/Bottom Analysis**
+4. **Top/Bottom Analysis**
    ![Top & Bottom Analysis](Images/Top_Bottom_Analysis.png)  
