@@ -34,20 +34,10 @@ To analyze sales data for effective decision-making and to provide insights into
 Below are snapshots of key visuals from the report:
 
 1. **Sales by Region**
-   ![Sales Over Region](Images/Sales_by_Region.png)  
-   _This chart shows the sales performance over time with significant peaks during certain quarters._
+   ![Sales by Region](Images/Sales_by_Region.png)  
 
 2. **Sales by Time**
-   ![Top Regions by Sales](Images/Sales_by_Time.png)  
-   _Regions with the highest contributions to sales revenue._
+   ![Sales by Time](Images/Sales_by_Time.png)  
 
 3. **Top/Bottom Analysis**
    ![Top & Bottom Analysis](Images/Top_Bottom_Analysis.png)  
-   _Top product categories and their revenue share._
-
-## File Download
-You can download the `.pbix` file and explore the report in Power BI Desktop:
-- [Sales_Data_Analysis.pbix](Sales_Data_Analysis.pbix)
-
-## Interactive Demo (Optional GIF)
-For an interactive preview, you can see this [GIF](link-to-GIF) demonstrating how to use the report’s filtering and drill-down features.
