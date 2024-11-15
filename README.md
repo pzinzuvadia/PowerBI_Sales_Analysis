@@ -33,16 +33,16 @@ To analyze sales data for effective decision-making and to provide insights into
 ## Visuals
 Below are snapshots of key visuals from the report:
 
-1. **Sales Over Time**
-   ![Sales Over Time](images/sales_over_time.png)  
+1. **Sales by Region**
+   ![Sales Over Region](Images/Sales_by_Region.png)  
    _This chart shows the sales performance over time with significant peaks during certain quarters._
 
-2. **Top Regions by Sales**
-   ![Top Regions by Sales](images/top_regions.png)  
+2. **Sales by Time**
+   ![Top Regions by Sales](Images/Sales_by_Time.png)  
    _Regions with the highest contributions to sales revenue._
 
-3. **Product Category Performance**
-   ![Product Category Performance](images/product_category.png)  
+3. **Top/Bottom Analysis**
+   ![Top & Bottom Analysis](Images/Top_Bottom_Analysis.png)  
    _Top product categories and their revenue share._
 
 ## File Download
